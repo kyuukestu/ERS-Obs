@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "f53db405ee5e24f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c35f79c09fc3833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46141698cf14af3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76638051dfe7b456",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c4989c71a49aed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8cc9f6d44e29734",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f90cca17fa96a144",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "014a3026e6b21e92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d608898f6072a511",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb85ffb146598329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db16095320d340e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Esther Rosana Sophys.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Esther Rosana Sophys"
+            }
+          },
+          {
+            "id": "bf4fa3c38350a72d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Esther Rosana Sophys.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Esther Rosana Sophys"
+            }
+          },
+          {
+            "id": "b7a2c074474f2821",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fe7c0ee1319da99f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Esther Rosana Sophys.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Esther Rosana Sophys"
+            }
+          },
+          {
+            "id": "325977677a770955",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Esther Rosana Sophys.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "7951dcc4547dfcb6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7951dcc4547dfcb6",
+  "lastOpenFiles": [
+    "2025-09-21.md",
+    "Esther/Esther Rosana Sophys.md",
+    "Esther/ERS/ERS-Relationships.md",
+    "Esther/ERS/ERS-Skills.md",
+    "Esther/ERS/ERS-Backstory.md",
+    "Esther/ERS/ERS-Appearance.md",
+    "Esther/ERS/ERS-Personality.md",
+    "Esther/ERS/ERS-Bio-Data.md",
+    "Bio-Data.md",
+    "Esther/ERS",
+    "Personality.md",
+    "Esther/Untitled.base",
+    "Esther",
+    "Welcome.md"
+  ]
+}
