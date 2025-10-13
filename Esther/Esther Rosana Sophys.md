@@ -28,7 +28,7 @@ Want to be affirmed, to distinguish themselves from others, to have attention, t
 8) [[ERS07-Inventory]]
 9) [[ERS08-Career-Hobbies]]
 
-## [[Pokemon]]
+## [[index]]
 
 1) Pyrrha
 2) Halay-Alae
