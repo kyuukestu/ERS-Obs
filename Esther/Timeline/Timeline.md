@@ -1,5 +1,0 @@
-```aat-vertical
-ERS
-```
-
-

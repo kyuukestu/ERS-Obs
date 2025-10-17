@@ -11,5 +11,9 @@
   "obsidian-mindmap-nextgen",
   "theme-picker",
   "obsidian-linter",
-  "github-sync"
+  "github-sync",
+  "obsidian-style-settings",
+  "make-md",
+  "obsidian-kanban",
+  "custom-sort"
 ]

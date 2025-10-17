@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiList",
+      "LiNotebook",
+      "LiFlame",
+      "♀",
+      "LiPawPrint"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,10 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Esther": "♀",
+  "Esther/ERS-Pokemon": "LiPawPrint",
+  "Esther/Arcs-Narrative-Threads": "LiAlarmClock",
+  "Esther/Arcs-Narrative-Threads/Mirage in Ashes": "LiFlame",
+  "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Ashes of the Hunt": "LiList"
 }

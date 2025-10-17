@@ -18,15 +18,15 @@ Want to be affirmed, to distinguish themselves from others, to have attention, t
 	- Contests
 	- Idol/Fame
 ## **Content**
-1) [[ERS00-Bio-Data]]
-2) [[ERS01-Appearance]]
-3) [[ERS02-Personality]]
-4) [[ERS03-Backstory]]
-5) [[ERS04-Skills]]
-6) [[ERS05-Relationships]]
-7) [[ERS06-Oblivia]]
-8) [[ERS07-Inventory]]
-9) [[ERS08-Career-Hobbies]]
+1) [[Bio-Data]]
+2) [[Appearance]]
+3) [[Personality]]
+4) [[Backstory]]
+5) [[Skills]]
+6) [[Relationships]]
+7) [[Oblivia]]
+8) [[Inventory]]
+9) [[Career-Hobbies]]
 
 ## [[index]]
 
