@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "275872e60ccf8957",
+        "id": "47a49f104386292a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ec77282c514b18a",
+            "id": "8fcaedc95d3318a7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Sync Formula.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "Sync Formula"
             }
           }
         ]
@@ -166,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Sync Formula.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -206,15 +208,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3ec77282c514b18a",
+  "active": "8fcaedc95d3318a7",
   "lastOpenFiles": [
+    "Vault.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Antagonists/Antagonists.md",
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Mirage in Ashes.md",
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Antagonists/J Rhys.md",
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Antagonists/Aurelian Yung.md",
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Ashes of the Hunt/Ashes of the Hunt.md",
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Antagonists/Untitled.md",
-    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Antagonists",
     "Esther/Esther Rosana Sophys.md",
@@ -234,8 +238,6 @@
     "Esther/ERS/Backstory.md",
     "Esther/ERS/Personality.md",
     "Esther/Arcs-Narrative-Threads/Timeline.md",
-    "Scattered Thoughts/Ransei.md",
-    "Esther/Esther.md",
     "Untitled 1",
     "Untitled",
     "Tags",
