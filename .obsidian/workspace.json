@@ -11,10 +11,14 @@
             "id": "3ec77282c514b18a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
