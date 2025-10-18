@@ -12,3 +12,15 @@ Buys into his own genius yet understands even a man as brilliant as his father c
 - Self-Aggrandizing, Somewhat of a Braggart
 - Wary of Authority, *"Always eager to destroy that which it cannot control."*
 - Secretive & Cautious
+
+His Mother passed on data from his father. He knows about Mirage Mewtwo and rationalized that if even the 'Perfect' specimen failed, then he must either amass overwhelming power or subtly grow his influence.
+
+Avenues of Investigations:
+- Power 
+	- Mega Evolution
+	- Z-Moves
+	- Dynamax & Terastalization
+- Influence
+	- Zoroark's Illusion - Potentially more substantial, rumors of a Zoroark who could create legendary pokemon and who's illusions could cause physical damage. Although this is ultimately revealed as fake, Aurelian is able to hack/sniff the events and learns about the Time Ripple. The Time Ripple would allow him to 'reset' time and create invincible Mirages which re-wind all their damage.
+
+- Search for Celebi
