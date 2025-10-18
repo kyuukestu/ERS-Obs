@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9e7d1fb21389c812",
+        "id": "275872e60ccf8957",
         "type": "tabs",
         "children": [
           {
-            "id": "fc90890ea3070391",
+            "id": "3ec77282c514b18a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Antagonists"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Antagonists"
+              "title": "New tab"
             }
           }
         ]
@@ -82,8 +80,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +202,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fc90890ea3070391",
+  "active": "3ec77282c514b18a",
   "lastOpenFiles": [
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Antagonists/Antagonists.md",
     "Esther/Arcs-Narrative-Threads/Mirage in Ashes/Mirage in Ashes.md",
