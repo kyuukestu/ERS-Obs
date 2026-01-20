@@ -1,0 +1,27 @@
+## Level Up
+<br>
+
+- [ ] Confusion (Psychic | Special | 50 | 100 | Lv.1)
+- [ ] Minimize (Normal | Status | — | — | Lv.1)
+- [ ] Constrict (Normal | Physical | 10 | 100 | Lv.1)
+- [ ] Astonish (Ghost | Physical | 30 | 100 | Lv.1)
+- [ ] Gust (Flying | Special | 40 | 100 | Lv.4)
+- [ ] Hypnosis (Psychic | Status | — | 60 | Lv.5)
+- [x] Focus Energy (Normal | Status | — | — | Lv.8)
+- [x] Payback (Dark | Physical | 50 | 100 | Lv.12)
+- [x] Calm Mind (Psychic | Status | — | — | Lv.15)
+- [x] Hex (Ghost | Special | 65 | 100 | Lv.16)
+- [x] Shadow Ball (Ghost | Special | 80 | 100 | Lv.20)
+- [x] Ominous Wind (Ghost | Special | 60 | 100 | Lv.20)
+- [x] Stockpile (Normal | Status | — | — | Lv.22)
+- [x] Spit Up (Normal | Special | — | 100 | Lv.24)
+- [x] Swallow (Normal | Status | — | — | Lv.24)
+- [x] Mystical Fire (Fire | Special | 75 | 100 | Lv.25)
+- [x] Self-Destruct (Normal | Physical | 200 | 100 | Lv.29)
+- [x] Extrasensory (Psychic | Special | 80 | 100 | Lv.29)
+- [ ] Destiny Bond (Ghost | Status | — | — | Lv.32 / Drifblim Parent)
+- [x] Baton Pass (Normal | Status | — | — | Lv.33)
+- [x] Amnesia (Psychic | Status | — | — | Lv.40)
+- [ ] Tailwind (Flying | Status | — | — | Lv.40 / Drifblim Parent)
+- [x] Explosion (Normal | Physical | 250 | 100 | Lv.43)
+

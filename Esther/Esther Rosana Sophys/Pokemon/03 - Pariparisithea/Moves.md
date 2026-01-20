@@ -1,0 +1,23 @@
+## Level Up
+<br>
+
+- [ ] Defense Curl (Normal | Status | — | — | Lv.1)
+- [ ] Psywave (Psychic | Special | — | 100 | Lv.1)
+- [ ] Stored Power (Psychic | Special | 20+ | 100 | Lv.1)
+- [ ] Hypnosis (Psychic | Status | — | 60 | Lv.4)
+- [ ] Lucky Chant (Normal | Status | — | — | Lv.5)
+- [ ] Yawn (Normal | Status | — | — | Lv.7)
+- [ ] Psybeam (Psychic | Special | 65 | 100 | Lv.8)
+- [x] Imprison (Psychic | Status | — | — | Lv.12)
+- [x] Moonlight (Fairy | Status | — | — | Lv.16)
+- [x] Magic Coat (Psychic | Status | — | — | Lv.20)
+- [x] Zen Headbutt (Psychic | Physical | 80 | 90 | Lv.23)
+- [x] Synchronoise (Psychic | Special | 120 | 100 | Lv.25)
+- [x] Calm Mind (Psychic | Status | — | — | Lv.28)
+- [x] Nightmare (Ghost | Status | — | 100 | Lv.29)
+- [x] Future Sight (Psychic | Special | 120 | 100 | Lv.31)
+- [x] Psychic (Psychic | Special | 90 | 100 | Lv.36)
+- [x] Moonblast (Fairy | Special | 95 | 100 | Lv.40)
+- [x] Dream Eater (Psychic | Special | 100 | 100 | Lv.41)
+- [x] Telekinesis (Psychic | Status | — | — | Lv.43)
+- [x] Wonder Room (Psychic | Status | — | — | Lv.52)
