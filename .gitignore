@@ -1,12 +1,2 @@
-.obsidian/workspace.json
-.obsidian/plugins/obsidian-git/data.json
-.obsidian/plugins/obsidian-git/logs/
-.DS_Store
-Thumbs.db
-<<<<<<< HEAD
-.obsidian/*
-.makemd/*
-.space/*
-.trash/*
-=======
->>>>>>> 853bfba3adfdb4b0f83771d61d91c5cc1946c614
+.obsidian/plugins/*
+!.obsidian/plugins/*/data.json

@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "aat-event-end-date": "date",
+    "Duration": "text",
+    "Due": "date"
+  }
+}

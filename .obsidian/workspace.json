@@ -192,13 +192,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Esther/Arcs-Narrative-Threads/Arcs-Narrative-Threads.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arcs-Narrative-Threads"
+              "title": "Outline"
             }
           },
           {
@@ -261,8 +260,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6911c3cfb4705adb",
+  "active": "7e254cfc9108a230",
   "lastOpenFiles": [
+    "Esther/Arcs-Narrative-Threads/Arcs-Narrative-Threads.md",
     "Vault.md",
     "Esther/Arcs-Narrative-Threads/Other Notes/Untitled.md",
     "Esther/Esther Rosana Sophys/J - Pokemon/05 - Kasriel/Moves.md",
@@ -288,7 +288,6 @@
     "Esther/Esther Rosana Sophys/I - Relationships/Azumi.md",
     "Esther/Esther Rosana Sophys/I - Relationships/Nakano.md",
     "Esther/Esther Rosana Sophys/I - Relationships/Nyra.md",
-    "Esther/Esther Rosana Sophys/I - Relationships/Reina.md",
     "Esther/Esther Rosana Sophys/I - Relationships",
     "Pasted image 20260115134515.png",
     "Esther/Esther Rosana Sophys/J - Pokemon/02 - Halay-Alae",
