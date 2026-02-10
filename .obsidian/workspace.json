@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esther/Esther Rosana Sophys/Pokemon/02 - Halay-Alae/Training Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Training Notes"
+              "title": "README"
             }
           },
           {
@@ -53,14 +53,13 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Esther/Arcs-Narrative-Threads"
+                "path": "Esther"
               },
               "icon": "lucide-file",
-              "title": "Arcs-Narrative-Threads"
+              "title": "Esther"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +122,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,12 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -260,8 +259,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e254cfc9108a230",
+  "active": "d3ccdb647b62f398",
   "lastOpenFiles": [
+    "Esther/Esther.md",
+    "README.md",
     "Esther/Arcs-Narrative-Threads/Arcs-Narrative-Threads.md",
     "Vault.md",
     "Esther/Arcs-Narrative-Threads/Other Notes/Untitled.md",
@@ -286,8 +287,6 @@
     "Esther/Esther Rosana Sophys/Esther Rosana Sophys.md",
     "Esther/Esther Rosana Sophys/I - Relationships/Monty.md",
     "Esther/Esther Rosana Sophys/I - Relationships/Azumi.md",
-    "Esther/Esther Rosana Sophys/I - Relationships/Nakano.md",
-    "Esther/Esther Rosana Sophys/I - Relationships/Nyra.md",
     "Esther/Esther Rosana Sophys/I - Relationships",
     "Pasted image 20260115134515.png",
     "Esther/Esther Rosana Sophys/J - Pokemon/02 - Halay-Alae",
