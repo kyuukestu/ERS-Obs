@@ -51,14 +51,12 @@
             "id": "85d21505156e9beb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Esther/Arcs-Narrative-Threads/Other Notes/Untitled.md",
-                "mode": "source",
-                "source": false
+                "path": "Esther/Arcs-Narrative-Threads"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Arcs-Narrative-Threads"
             }
           }
         ],
@@ -194,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Esther/Arcs-Narrative-Threads/Other Notes/Untitled.md",
+                "file": "Esther/Arcs-Narrative-Threads/Arcs-Narrative-Threads.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Arcs-Narrative-Threads"
             }
           },
           {
@@ -263,10 +261,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8cc9f6d44e29734",
+  "active": "6911c3cfb4705adb",
   "lastOpenFiles": [
-    "Esther/Esther Rosana Sophys/J - Pokemon/05 - Kasriel/Moves.md",
+    "Vault.md",
     "Esther/Arcs-Narrative-Threads/Other Notes/Untitled.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/05 - Kasriel/Moves.md",
     "Esther/Esther Rosana Sophys/J - Pokemon/02 - Halay-Alae/02 - Halay-Alae.md",
     "Esther/Esther Rosana Sophys/J - Pokemon/05 - Kasriel/05 - Kasriel.md",
     "Esther/Esther Rosana Sophys/J - Pokemon/06 - Baquile Nava/Moves.md",
@@ -290,7 +289,6 @@
     "Esther/Esther Rosana Sophys/I - Relationships/Nakano.md",
     "Esther/Esther Rosana Sophys/I - Relationships/Nyra.md",
     "Esther/Esther Rosana Sophys/I - Relationships/Reina.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/J - Pokemon.md",
     "Esther/Esther Rosana Sophys/I - Relationships",
     "Pasted image 20260115134515.png",
     "Esther/Esther Rosana Sophys/J - Pokemon/02 - Halay-Alae",
