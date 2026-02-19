@@ -26,5 +26,5 @@
 ## Tutor
 <br>
 
-- [ ] Extreme Speed
+- [x] Extreme Speed
       Hoenn Zigzagoon Egg-Move

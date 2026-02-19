@@ -20,9 +20,9 @@
 
 - [ ] Hydro Pump (Water | Special | 110 | 80 | Azumariil Parent)
 
-<br>
-## Tutor
-<br.
 
-- [ ] Water Pulse
+## Tutor
+<br>
+
+- [x] Water Pulse
 	- August 15th $\to$ ???

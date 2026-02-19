@@ -19,8 +19,8 @@
 - [x] Muddy Water (Water | Special | 90 | 85 | Lv.38)
 - [x] Curse (Ghost | Status | — | — | Lv.41)
 - [x] Hydro Pump (Water | Special | 110 | 80 | Lv.43)
-<br>
+
 ## Tutor
 <br>
-- [ ] Water Pulse
+- [x] Water Pulse
 	- August 15th $\to$ ???

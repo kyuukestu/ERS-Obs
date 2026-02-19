@@ -37,5 +37,5 @@
 ## Tutor
 <br>
 
-- [ ] Snarl
+- [x] Snarl
 	- August 5th $\to$ ???

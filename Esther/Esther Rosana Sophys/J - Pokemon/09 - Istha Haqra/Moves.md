@@ -16,7 +16,7 @@
 ## Tutor
 <br>
 
-- [ ] Scale Shot
+- [x] Scale Shot
 	- August 5th $\to$ ???
-- [ ] Water Pulse
+- [x] Water Pulse
 	- August 15th $\to$ ???
