@@ -4,59 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "221a3caa85cb10ad",
+        "id": "a7854f2d99a263c7",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ccdb647b62f398",
+            "id": "612727d2e2ae9135",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esther/Esther Rosana Sophys/J - Pokemon/00 - Overview/Training Notes.md",
+                "file": "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/Training Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Training Notes"
-            }
-          },
-          {
-            "id": "43b3e0676a34f9c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Esther/Esther Rosana Sophys/Pokemon/02 - Halay-Alae/Moves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Moves"
-            }
-          },
-          {
-            "id": "e08b6e9d93d5e861",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Esther/Arcs-Narrative-Threads/Other Notes/Sophys Farm"
-              },
-              "icon": "lucide-file",
-              "title": "Sophys Farm"
-            }
-          },
-          {
-            "id": "85d21505156e9beb",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Esther"
-              },
-              "icon": "lucide-file",
-              "title": "Esther"
             }
           }
         ]
@@ -113,7 +75,7 @@
             }
           },
           {
-            "id": "ae8c3de46c53f188",
+            "id": "7227d64240ea8935",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -191,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/Training Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Training Notes"
             }
           },
           {
@@ -205,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/Training Notes.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -226,14 +190,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Esther/Arcs-Narrative-Threads/Oblivia Training Arc/Act I.md"
+                "file": "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/Training Notes.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -260,35 +224,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3ccdb647b62f398",
+  "active": "612727d2e2ae9135",
   "lastOpenFiles": [
-    "Esther/Esther Rosana Sophys/J - Pokemon/00 - Overview/Training Notes.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/00 - Overview/00 - Overview.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/00 - Overview",
-    "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/01 - Pyrrha.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/09 - Istha Haqra/Moves.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/08 - La Bamba/Moves.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/07 - L'Basseau/Moves.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/06 - Baquile Nava/Moves.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/05 - Kasriel/Moves.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-07 - July/Act III - To R10.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-07 - July/Act II - Yanma Swarm.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-07 - July/Act I - Shabboneau.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-06 - June/Act IV - The Northern Route.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-06 - June/Act III - Gilded Fields/Scene II - Shephard.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-06 - June/Act III - Gilded Fields/Scene I - Farmhand.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-06 - June/Act II - Ashes of the Hunt/Scene I - Encounter.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-06 - June/Act I - Enter Pyrrha.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-06 - June/Act II - Ashes of the Hunt/Scene II - Investigate.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-06 - June/Act II - Ashes of the Hunt/Act II - Ashes of the Hunt.md",
     "Esther/Esther Rosana Sophys/J - Pokemon/04 - Maciera/Moves.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/02 - Halay-Alae/Training Notes.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/02 - Halay-Alae/Moves.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/04 - Maciera/Evolution.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/04 - Maciera/04 - Maciera.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-08 - August/Act V - Hau'oli City Contest.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-07 - July/Act VII - Homecoming I.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-08 - August/Act I - Homecoming II.md",
+    "Esther/Arcs-Narrative-Threads/Timeline/2022-08 - August/Act II - MediFes.md",
     "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/Training Notes.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/Moves.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/03 - Pariparisithea/03 - Pariparisithea.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/10 - Jecroix/Moves.md",
     "Esther/Esther Rosana Sophys/J - Pokemon/04 - Maciera/Training Notes.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/06 - Baquile Nava/Moves#Tutor|Moves 1.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/06 - Baquile Nava/Training Notes.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/07 - L'Basseau/Training Notes.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/06 - Baquile Nava/Moves#Tutor|Moves.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/06 - Baquile Nava/06 - Baquile Nava.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/07 - L'Basseau/07 - L'Basseau.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/08 - La Bamba/08 - La Bamba.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/09 - Istha Haqra/Training Notes.md",
-    "Esther/Esther Rosana Sophys/J - Pokemon/09 - Istha Haqra/09 - Istha Haqra.md",
-    "README.md",
-    "Esther/Esther.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/05 - Kasriel/05 - Kasriel.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/01 - Pyrrha.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/01 - Pyrrha/Moves.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/00 - Overview/Training Notes.md",
+    "Esther/Esther Rosana Sophys/J - Pokemon/J - Pokemon.md",
+    "Esther/Esther Rosana Sophys/I - Relationships/I - Relationships.md",
+    "Esther/Esther Rosana Sophys/F - Inventory/Wardrobe",
+    "Esther/Esther Rosana Sophys/J - Pokemon/00 - Overview",
     "Esther/Esther Rosana Sophys/I - Relationships",
     "Pasted image 20260115134515.png",
     "Esther/Esther Rosana Sophys/J - Pokemon/02 - Halay-Alae",
@@ -298,7 +263,6 @@
     "Esther/Esther Rosana Sophys/J - Pokemon/09 - Istha Haqra",
     "Esther/Esther Rosana Sophys/J - Pokemon/08 - La Bamba",
     "Esther/Esther Rosana Sophys/J - Pokemon/06 - Baquile Nava",
-    "Esther/Esther Rosana Sophys/J - Pokemon/07 - L'Basseau",
     "Esther/Arcs-Narrative-Threads/Antagonists/Pasted image 20251121081455.png",
     "TimelineSampleVault/Media/Pasted image 20230707162456.png",
     "TimelineSampleVault/Media/Pasted image 20230707162508.png",

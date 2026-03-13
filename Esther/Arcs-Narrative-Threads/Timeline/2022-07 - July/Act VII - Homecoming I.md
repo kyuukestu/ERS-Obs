@@ -24,7 +24,7 @@ Pulse Update: ""
 # 2022-07-25
 
 ## Old 
-Oblivia Arrival; Esther's family interactionsII
+Oblivia Arrival; Esther's family interactions
 
 ## New
 - Esther spots a Cargo ship and stops by Renbow to check things out, encounters Nyra

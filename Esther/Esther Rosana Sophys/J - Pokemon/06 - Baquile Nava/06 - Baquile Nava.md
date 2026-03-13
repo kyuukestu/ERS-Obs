@@ -6,5 +6,9 @@
 | **Ability**          | Gooey            |
 | **Item**             | None             |
 | **Poké Ball**        | Normal           |
+# Bâquîle Nâva
 
+Bastille
+Baroque
+Ballet de Narva
 !![[Esther/Esther Rosana Sophys/J - Pokemon/06 - Baquile Nava/Moves]]

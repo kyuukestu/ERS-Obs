@@ -17,4 +17,5 @@ Prospective:
 - Aegislash
 - Skeledirge
 - Quaquaval
--
+Other: 
+- Spinarak
