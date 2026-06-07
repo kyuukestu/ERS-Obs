@@ -22,5 +22,7 @@
   "radial-timeline",
   "metadata-menu",
   "templater-obsidian",
-  "live-variables"
+  "live-variables",
+  "quickadd",
+  "breadcrumbs"
 ]
